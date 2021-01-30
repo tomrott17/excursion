@@ -1,7 +1,34 @@
 h1, article {
     text-align: center;
+    color: white;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: normal;
+}
+
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+p {
+    font-size: 21px;
+    color: gray;
+}
+
+footer {
+    color: white;
 }
 
 .download {
     text-align: center;
+    color: aquamarine;
+    font-size: 16px;
+}
+
+#copyright {
+    text-align: right;
+    color: gray;
 }
